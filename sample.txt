@@ -1,2 +1,3 @@
 猿でもわかるGitコマンド
 add 変更をindexに追加します
+commit indexの状態を記録する
